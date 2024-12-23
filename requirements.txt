@@ -1,0 +1,3 @@
+pyTelegramBotApi
+langchain_ollama
+asyncio
